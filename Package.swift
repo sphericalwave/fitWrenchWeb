@@ -1,5 +1,13 @@
 // swift-tools-version:5.0
 
+//
+//  Package.swift
+//  AudioWave
+//
+//  Created by Aaron Anthony on 2020-03-07.
+//  Copyright © 2020 SphericalWave. All rights reserved.
+//
+
 import PackageDescription
 
 let package = Package(
